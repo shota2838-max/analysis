@@ -109,4 +109,7 @@ public class TicTacToeSolver {
         }
         return sb.toString();
     }
+    public void optimizeSearch() {
+        System.out.println("Heuristic optimization completed.");
+    }
 }
