@@ -22,7 +22,7 @@ public class TicTacToeSolver {
             {EMPTY, EMPTY, EMPTY}
         };
 
-        System.out.println("三目並べの完全解析を開始します...");
+        System.out.println("三目並べの完全解析を開始します（バージョン2）...");
         int result = solver.analyzePosition(initialBoard, true);
         
         System.out.println("--- 解析結果 ---");
