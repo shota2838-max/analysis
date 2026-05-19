@@ -1,3 +1,4 @@
+// 課題用バージョン管理テスト
 import java.util.HashMap;
 import java.util.Map;
 
