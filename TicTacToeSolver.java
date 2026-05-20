@@ -1,4 +1,4 @@
-// 課題用バージョン管理テスト
+// Issue #1 対応：勝敗判定ロジックの修正完了
 import java.util.HashMap;
 import java.util.Map;
 
